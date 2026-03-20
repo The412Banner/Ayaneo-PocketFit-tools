@@ -12,3 +12,6 @@ https://kancy.life/2025/11/04/APS_OKEY_ROOT/
 and
 
 https://github.com/sunflower2333
+
+---
+<sub>☕ [Support on Ko-fi](https://ko-fi.com/the412banner)</sub>
