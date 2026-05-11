@@ -1,4 +1,6 @@
 # Ayaneo Pocket Fit Tools
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/n8S4G2WZQ4)
+
 
 A collection of tools, scripts, and resources for the **Ayaneo Konkr Pocket Fit (G3 Gen 3)** and similar Ayaneo devices. Maintained by [@The412Banner](https://github.com/The412Banner).
 
@@ -93,3 +95,8 @@ The scripts in this repo are lightly modified versions that redirect the payload
 ---
 
 <sub>☕ [Support on Ko-fi](https://ko-fi.com/the412banner)</sub>
+
+
+## Community
+
+Join our Discord: https://discord.gg/n8S4G2WZQ4
